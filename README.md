@@ -33,7 +33,7 @@ The objective of this project is to develop a system that accurately classifies 
 
 ## **Result:**
 
-- A machine learning model based on **Support Vector Machine (SVM)** was successfully developed and optimized to classify images of sports celebrities.
+- A machine learning model based on **Support Vector Machine (SVM)** was successfully developed and optimized to classify images of sports celebrities with an overall model accuracy of 78 %.
 - By using **Haar cascades** to detect faces and eyes in the images, the data was effectively cleaned, discarding unsuitable images.
 - The combination of **wavelet transforms** and **raw pixel data** was used for feature extraction, followed by classification using SVM.
 - The model was fine-tuned using **GridSearchCV** to optimize hyperparameters, and **classification reports** were used to assess performance.
